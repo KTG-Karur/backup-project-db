@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkk3_crm_management=self.webpackChunkk3_crm_management||[]).push([[2215],{72215:(e,a,t)=>{t.r(a),t.d(a,{default:()=>m});var r=t(51649),s=t(80184);const m=()=>((0,r.Tt)({title:"Starter",breadCrumbItems:[{path:"/pages/starter",label:"Extra Pages"},{path:"/pages/starter",label:"Starter",active:!0}]}),(0,s.jsx)(s.Fragment,{}))}}]);
+//# sourceMappingURL=2215.39d56ed1.chunk.js.map

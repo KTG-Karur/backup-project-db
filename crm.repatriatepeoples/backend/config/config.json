@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "k3crm_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+05:30"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "k3_crm_management",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+05:30"
+  },
+  "production": {
+    "username": "k3crm_db",
+    "password": "H[C*yFWoboIkh!th",
+    "database": "k3crm_db",
+    "host": "192.46.213.224",
+    "dialect": "mysql",
+    "timezone": "+05:30"
+  }
+}

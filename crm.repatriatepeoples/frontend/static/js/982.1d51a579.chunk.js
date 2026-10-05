@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkk3_crm_management=self.webpackChunkk3_crm_management||[]).push([[982],{30982:(e,a,s)=>{s.r(a),s.d(a,{default:()=>r});var c=s(47022),n=s(80184);const r=()=>(0,n.jsx)("footer",{className:"footer",children:(0,n.jsx)(c.Z,{fluid:!0})})}}]);
+//# sourceMappingURL=982.1d51a579.chunk.js.map
